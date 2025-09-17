@@ -1,7 +1,7 @@
-📝 My Learning Path
+# 📝 My Learning Path
 This repository documents my work with the Kaggle car sales dataset, following a learning path in data science and, in the future, artificial intelligence. The goal is to apply and reinforce theoretical knowledge in a practical project.
 
-🚗 About the project and data
+# 🚗 About the project and data
 Project: Analysis and prediction of second-hand car prices.
 
 Data source: Mock Dataset of Second-Hand Car Sales
@@ -16,7 +16,7 @@ Build a machine learning model to predict car prices.
 
 Analyze the importance of features in price prediction.
 
-📊 1. Exploratory Data Analysis (EDA)
+# 📊 1. Exploratory Data Analysis (EDA)
 This is where you show what you found in the initial phase. The idea is to use graphs and statistics to understand the data before creating any models.
 
 Initial Analysis: Briefly describe the data. What types of columns are there? (Numeric, categorical, etc.) For example: "The dataset contains X rows and Y columns, with information about the manufacturer, mileage, year, etc.."
@@ -31,7 +31,7 @@ Car count by manufacturer.
 
 Relationship between variables: Are there any interesting correlations? For example, are year of manufacture and price related? What about mileage? You could show a heat map for the correlations.
 
-🧼 2. Data Preprocessing
+# 🧼 2. Data Preprocessing
 This is the section where you explain how you prepared the data for the model. This is a crucial step.
 
 Missing Values: Were there any missing data? How did you handle them? (For example: "I removed rows with missing values ​​in the 'engine_size' column.")
@@ -40,7 +40,7 @@ Variable encoding: How did you convert text variables (such as fuel type or manu
 
 Feature engineering: Did you create new variables from existing ones? (For example: "I created a new column called car_age from the year column.")
 
-🧠 3. Machine learning modeling
+# 🧠 3. Machine learning modeling
 This is where you'll test your prediction models.
 
 Models used: Mention the models you tested. You can start with simpler models and then try more advanced ones. For example:
@@ -55,7 +55,7 @@ Evaluation metrics: How did you measure the models' performance? The most common
 
 Results: Compare the results of the models. Which performed best? (For example: "The XGBoost model performed the best, with an R2 of 0.92 and an MSE of 5,500.")
 
-📓 Internship Log
+# 📓 Internship Log
 Entry 1: Data Cleaning and Visualization Date: September 16, 2025
 
 Phase: 1. Exploratory Data Analysis (EDA) and 2. Data Preprocessing.
@@ -81,3 +81,4 @@ Next steps:
 Continue preparing the data for modeling, including coding categorical variables.
 
 Investigate different regression models for predicting price.
+[Coffee Sales Dataset](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)
